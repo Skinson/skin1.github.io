@@ -1,0 +1,61 @@
+/*<style type="text/css">
+/* --- menu styles --- note:
+	not all browsers render styles the same way so try out your style sheet
+	on different browsers before publishing;
+*/
+/* level 0 inner */
+.m0l0iout {
+	font: 12px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	padding: 4px;
+	color: #9d9d9d;
+
+}
+.m0l0iover {
+	font: 12px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+ 	text-decoration: none;
+	padding: 4px;
+	color: #f9f9f9;
+}
+
+/* level 0 outer */
+.m0l0oout {
+	text-decoration : none;
+	border : 1px solid #222222;
+	background: #222222;
+}
+.m0l0oover {
+	text-decoration : none;
+	border : 1px solid #222222;
+	background: #222222;
+}
+
+
+/* level 1 inner */
+.m0l1iout {
+	font: 12px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	padding: 4px;
+	color: #9d9d9d;
+}
+.m0l1iover {
+	font: bold 12px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	padding: 4px;
+	color: #f9f9f9;
+}
+
+/* level 1 outer */
+.m0l1oout {
+	text-decoration : none;
+	border : 1px solid #222222;
+	background: #222222;
+	filter: alpha(opacity=85);
+}
+.m0l1oover {
+	text-decoration : none;
+	border : 1px solid #222222;
+	background: #222222;
+}
+
+</style>
